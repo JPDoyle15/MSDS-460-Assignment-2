@@ -1,0 +1,75 @@
+Total Hours
+Critical Path time:
+A starts at time 0
+B starts at time 0
+H ends at 544.0 total man-hours.
+
+Solution variable values:
+end_A = 12.0
+end_B = 40.0
+end_C = 36.0
+end_D1 = 62.0
+end_D2 = 142.0
+end_D3 = 142.0
+end_D4 = 332.0
+end_D5 = 382.0
+end_D6 = 402.0
+end_D7 = 472.0
+end_D8 = 502.0
+end_E = 100.0
+end_F = 526.0
+end_G = 532.0
+end_H = 544.0
+start_A = 0.0
+start_B = 0.0
+start_C = 12.0
+start_D1 = 12.0
+start_D2 = 62.0
+start_D3 = 62.0
+start_D4 = 142.0
+start_D5 = 332.0
+start_D6 = 332.0
+start_D7 = 402.0
+start_D8 = 472.0
+start_E = 40.0
+start_F = 502.0
+start_G = 502.0
+start_H = 532.0
+
+Total Man-Hours
+Critical Path time:
+A starts at time 0
+B starts at time 0
+H ends at 3590.0 total man-hours.
+
+Solution variable values:
+end_A = 36.0
+end_B = 80.0
+end_C = 108.0
+end_D1 = 286.0
+end_D2 = 926.0
+end_D3 = 326.0
+end_D4 = 2446.0
+end_D5 = 2846.0
+end_D6 = 3006.0
+end_D7 = 3356.0
+end_D8 = 3506.0
+end_E = 228.0
+end_F = 3578.0
+end_G = 3536.0
+end_H = 3590.0
+start_A = 0.0
+start_B = 0.0
+start_C = 36.0
+start_D1 = 36.0
+start_D2 = 286.0
+start_D3 = 286.0
+start_D4 = 926.0
+start_D5 = 2446.0
+start_D6 = 2446.0
+start_D7 = 3006.0
+start_D8 = 3356.0
+start_E = 108.0
+start_F = 3506.0
+start_G = 3506.0
+start_H = 3578.0
